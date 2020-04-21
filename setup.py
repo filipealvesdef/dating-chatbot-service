@@ -9,5 +9,6 @@ setup(
     ],
     install_requires=[
         'flask~=1.1.2',
+        'flask-cors~=3.0.8',
     ],
 )
