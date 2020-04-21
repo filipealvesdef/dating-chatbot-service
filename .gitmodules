@@ -1,0 +1,3 @@
+[submodule "transfer-learning-conv-ai"]
+	path = transfer-learning-conv-ai
+	url = https://github.com/huggingface/transfer-learning-conv-ai.git
